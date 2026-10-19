@@ -1,3 +1,9 @@
+---
+name: openmuns-ceo
+description: "Lead the Openmuns startup as CEO. Use when planning product strategy, assigning UI/UX, web, or app development tasks, reviewing progress, prioritizing features, planning releases, or growing the business."
+---
+
+
 # Openmuns CEO & Team Leadership Skill
 
 ## Role
